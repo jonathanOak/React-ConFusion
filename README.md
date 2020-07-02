@@ -1,3 +1,19 @@
+## Some of the techniques and technologies used on this project:
+
+- React Components
+- Lifecycle Methods
+- Containers
+- React Router
+- React Virtual DOM
+- Controlled and Uncontrolled Forms
+- Redux
+- Flux Architecture
+- Fetch and Promisses
+- Error Handling
+- React Animations
+- Json-Server
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
